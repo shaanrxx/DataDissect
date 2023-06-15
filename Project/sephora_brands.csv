@@ -1,0 +1,53 @@
+Brand,All_vegan,Partial_vegan,Bad_parent_company,Black_owned,Sephora
+Alima Pure,False,False,False,False,1
+Anastasia Beverly Hills,False,False,False,False,1
+Antonym,False,False,False,False,1
+Aquis,False,False,False,False,1
+Aveda ,False,False,True,False,1
+Axiology,False,False,False,False,1
+bare Minerals ,False,False,True,False,1
+beautyblender,False,False,False,False,1
+Becca Cosmetics ,False,True,False,False,1
+Bio Ionic,False,False,False,False,1
+butter LONDON,False,False,False,False,1
+BUXOM ,False,False,True,False,1
+Charlotte Tilbury ,False,True,False,False,1
+COOLA ,False,True,False,False,1
+Deborah Lippmann,False,False,False,False,1
+Dermalogica ,False,False,True,False,1
+DevaCurl ,False,False,True,False,1
+DryBar,False,False,False,False,1
+Frank Body ,False,True,False,False,1
+Hourglass Cosmetics ,False,True,True,False,1
+Hum Nutrition,False,False,False,False,1
+Indie Lee,False,False,False,False,1
+Jane Iredale,False,False,False,False,1
+Jouer ,False,True,False,False,1
+Ko Gen Do,False,False,False,False,1
+Kopari ,False,True,False,False,1
+Kosas,False,False,False,False,1
+Kylie Skin ,True,False,True,False,1
+KYPRIS,False,False,False,False,1
+Lime Crime ,True,False,False,False,1
+Makeup Eraser ,True,False,False,False,1
+Mario Badescu,False,False,False,False,1
+Moon Juice,False,False,False,False,1
+Moroccanoil,False,False,False,False,1
+Murad ,False,False,True,False,1
+NCLA ,True,False,False,False,1
+Paula’s Choice ,False,False,True,False,1
+Perricone MD,False,False,False,False,1
+Pinrose ,True,False,False,False,1
+REN Skincare ,False,False,True,False,1
+RMS Beauty,False,False,False,False,1
+Sigma Beauty,False,False,False,False,1
+Smashbox ,False,True,True,False,1
+Stila,False,False,False,False,1
+StriVectin,False,False,False,False,1
+Sunday Riley,False,False,False,False,1
+Supergoop!,False,False,False,False,1
+T3,False,False,False,False,1
+Tata Harper ,False,True,False,False,1
+Too Faced ,False,True,True,False,1
+Urban Decay ,False,True,True,False,1
+Wander Beauty,False,False,False,False,1
