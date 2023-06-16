@@ -16,7 +16,8 @@ Throughout the project, documentation will showcase the research process, data c
 1. Folder Structure   <br>
 2. Jupyter Notebook - Important Notebooks  <br>
 3. Important CSV Files  <br>
-4. References   <br>
+4. Portfolio <br>
+5. References   <br>
 
 # Folder Structure
 1. Project - this has all my Jupyter Notebooks and CSV files in. If anything in this folder, is not listed in this README, then they are experiments in the course.  
@@ -50,6 +51,10 @@ Throughout the project, documentation will showcase the research process, data c
    - cruelty_free_sephora.csv           ---- list of cruelty-free brands from Logical Harmony  <br>
    - cruelty_free_ulta.csv              ---- list of cruelty-free brands from Logical Harmony   <br>
    - peta.csv                           ---- all verified brands on PETA
+ 
+ 
+ # Portfolio Link
+ https://www.canva.com/design/DAFjvUbMm0o/4mOtop1c0jrhzQXWT3OAXQ/edit?utm_content=DAFjvUbMm0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  
  # References:
  https://www.youtube.com/watch?v=e4Jb8VbBdgs   <br>
