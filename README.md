@@ -60,4 +60,5 @@ Throughout the project, documentation will showcase the research process, data c
  https://www.youtube.com/watch?v=e4Jb8VbBdgs   <br>
  https://www.youtube.com/watch?v=T-itcgP7IDo   <br>
  https://www.youtube.com/watch?v=RMfMqK4Y3qk&t=2672s   <br>
+ https://www.kaggle.com/datasets/mhapich/crueltyfree-brands
     
