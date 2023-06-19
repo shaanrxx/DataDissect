@@ -24,6 +24,7 @@ Throughout the project, documentation will showcase the research process, data c
 1. Project - this has all my Jupyter Notebooks and CSV files in. If anything in this folder, is not listed in this README, then they are experiments in the course.  
 2. Big Data: How  Accessible is cruelty free makeup?.pdf - my portfolio  <br>
 3. README.pdf  <br>
+4. Video.mp4 --- Final Video of Prototype  <br>
 
 # Link To My final Video
 [https://drive.google.com/file/d/1eB3v1sOsvrEftCMAia70PHpGao1vnoNw/view?usp=sharing](https://drive.google.com/file/d/1o3z9jFyuzoHtjp30gxSDrroulkUxvWMK/view?usp=sharing)
