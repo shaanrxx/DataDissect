@@ -14,7 +14,7 @@ Throughout the project, documentation will showcase the research process, data c
 
 # Contents  
 1. Folder Structure   <br>
-2. Link to my Final Video <br>
+2. Link To My Final Video <br>
 3. Jupyter Notebook - Important Notebooks  <br>
 5. Important CSV Files  <br>
 6. Portfolio <br>
@@ -25,7 +25,8 @@ Throughout the project, documentation will showcase the research process, data c
 2. Big Data: How  Accessible is cruelty free makeup?.pdf - my portfolio  <br>
 3. README.pdf  <br>
 
-# link to my final Video
+# Link To My final Video
+https://drive.google.com/file/d/1eB3v1sOsvrEftCMAia70PHpGao1vnoNw/view?usp=sharing
 
 # Jupyter Notebook - Important Notebooks
 
