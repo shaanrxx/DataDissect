@@ -14,15 +14,18 @@ Throughout the project, documentation will showcase the research process, data c
 
 # Contents  
 1. Folder Structure   <br>
-2. Jupyter Notebook - Important Notebooks  <br>
-3. Important CSV Files  <br>
-4. Portfolio <br>
-5. References   <br>
+2. Link to my Final Video <br>
+3. Jupyter Notebook - Important Notebooks  <br>
+5. Important CSV Files  <br>
+6. Portfolio <br>
+7. References   <br>
 
 # Folder Structure
 1. Project - this has all my Jupyter Notebooks and CSV files in. If anything in this folder, is not listed in this README, then they are experiments in the course.  
 2. Big Data: How  Accessible is cruelty free makeup?.pdf - my portfolio  <br>
 3. README.pdf  <br>
+
+# link to my final Video
 
 # Jupyter Notebook - Important Notebooks
 
